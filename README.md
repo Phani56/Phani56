@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Graduate student at Northeastern university. 
+**Active work account** -> https://github.com/gtphani
 
-Current active work account -> https://github.com/gtphani
+
+Graduate student at Northeastern university, working towards a Software engineering degree with specialization in Full stack development.
